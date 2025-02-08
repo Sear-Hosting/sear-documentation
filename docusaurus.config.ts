@@ -7,7 +7,7 @@ const config: Config = {
   tagline: 'Welcome to Sear Hosting\'s Documentation',
   favicon: 'img/favicon.ico',
 
-  url: 'https://docs.searhosting.com',
+  url: 'https://docs.sear.host',
   baseUrl: '/',
 
   organizationName: 'sear-hosting',
@@ -97,11 +97,11 @@ const config: Config = {
           items: [
             {
               label: 'Status',
-              href: 'https://status.searhosting.com',
+              href: 'https://status.sear.host',
             },
             {
               label: 'Contact',
-              href: 'https://searhosting.com/contact',
+              href: 'https://sear.host/',
             },
           ],
         },
