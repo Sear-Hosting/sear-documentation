@@ -1,47 +1,32 @@
 ---
 sidebar_position: 1
+slug: /
 ---
 
-# Tutorial Intro
+# Welcome to Sear Hosting Documentation
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome to the official documentation for Sear Hosting. Here you'll find comprehensive guides and documentation to help you start working with Sear Hosting as quickly as possible.
 
-## Getting Started
+## Quick Navigation
 
-Get started by **creating a new site**.
+- **[Getting Started](/getting-started)** - Get up and running with your first server
+- **[API Reference](/api)** - Explore our API documentation
+- **[Server Administration](/tutorial-basics/create-a-document)** - Learn how to manage your servers effectively
+- **[Features Overview](/tutorial-basics/create-a-page)** - Discover all the features available to you
+- **[Basic Troubleshooting](/tutorial-basics/deploy-your-site)** - Find solutions to common issues
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## Need Help?
 
-### What you'll need
+- Join our [Discord Community](https://discord.gg/searhosting)
+- Check our [Status Page](https://status.sear.host)
+- Visit our [Main Website](https://sear.host)
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## Why Sear Hosting?
 
-## Generate a new site
+Sear Hosting provides reliable, high-performance hosting solutions with:
 
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- **Powerful Hardware** - Enterprise-grade infrastructure
+- **99.9% Uptime** - Reliable hosting you can count on
+- **24/7 Support** - Always here when you need us
+- **Easy Management** - User-friendly control panel
+- **Instant Setup** - Get started in minutes
