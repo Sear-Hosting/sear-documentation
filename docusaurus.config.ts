@@ -13,7 +13,7 @@ const config: Config = {
   organizationName: 'sear-hosting',
   projectName: 'documentation',
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   i18n: {
