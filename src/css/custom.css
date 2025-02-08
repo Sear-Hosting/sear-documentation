@@ -1,0 +1,75 @@
+/* Import fonts */
+@import url('https://fonts.googleapis.com/css2?family=Spline+Sans+Mono:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Martian+Mono:wght@400;600;700&display=swap');
+
+:root {
+  --ifm-font-family-base: 'Spline Sans Mono', monospace;
+  --ifm-font-family-monospace: 'Martian Mono', monospace;
+  
+  /* Light mode colors - though we default to dark mode */
+  --ifm-color-primary: #673459;
+  --ifm-color-primary-dark: #5d2f50;
+  --ifm-color-primary-darker: #582c4c;
+  --ifm-color-primary-darkest: #48243e;
+  --ifm-color-primary-light: #713962;
+  --ifm-color-primary-lighter: #763c66;
+  --ifm-color-primary-lightest: #864474;
+  
+  --ifm-background-color: #ffffff;
+  --ifm-text-color: #0f0e1b;
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #a5a0ce;
+  --ifm-color-primary-dark: #8f89bf;
+  --ifm-color-primary-darker: #847db9;
+  --ifm-color-primary-darkest: #6359a4;
+  --ifm-color-primary-light: #bbb7dd;
+  --ifm-color-primary-lighter: #c6c3e3;
+  --ifm-color-primary-lightest: #e7e6f3;
+  
+  --ifm-background-color: #0f0e1b;
+  --ifm-text-color: #eeedf6;
+  
+  --ifm-navbar-background-color: #0f0e1b;
+  --ifm-footer-background-color: #0f0e1b;
+}
+
+/* Accent color for links and interactive elements */
+[data-theme='dark'] a {
+  color: #b26882;
+}
+
+[data-theme='dark'] a:hover {
+  color: #c67b95;
+}
+
+/* Custom styles */
+.navbar {
+  border-bottom: 1px solid rgba(165, 160, 206, 0.1);
+}
+
+.footer {
+  border-top: 1px solid rgba(165, 160, 206, 0.1);
+}
+
+/* Improve readability */
+.markdown {
+  --ifm-h1-font-size: 2.5rem;
+  --ifm-h2-font-size: 2rem;
+  --ifm-h3-font-size: 1.5rem;
+  --ifm-h4-font-size: 1.25rem;
+  --ifm-line-height-base: 1.8;
+}
+
+/* Breadcrumbs styling */
+.breadcrumbs {
+  --ifm-breadcrumb-color-active: var(--ifm-color-primary);
+  --ifm-breadcrumb-item-background-active: transparent;
+}
+
+/* Code blocks */
+.theme-code-block {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  border: 1px solid rgba(165, 160, 206, 0.2);
+}
