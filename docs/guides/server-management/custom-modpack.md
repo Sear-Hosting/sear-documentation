@@ -73,13 +73,10 @@ If you encounter compatibility issues:
 
 ## Additional Resources
 
-- [Server Backup Guide](../features/backups.md)
-- [Troubleshooting Crashes](../troubleshooting/server-crashes.md)
 - [Mod Installation Guide](./install-mods.md)
 
 ## Need Help?
 
 If you encounter any issues not covered in this guide:
 1. Check the server logs for specific error messages
-2. Review our [troubleshooting guide](../troubleshooting/server-crashes.md)
-3. Contact our support team via the help desk
+2. Contact our support team via the help desk

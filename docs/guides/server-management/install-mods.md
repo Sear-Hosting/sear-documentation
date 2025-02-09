@@ -79,8 +79,6 @@ This guide will walk you through the process of installing and managing mods on 
 
 ## Related Guides
 - [Custom Modpack Upload](custom-modpack.md)
-- [Modpack Management](modpack-management.md)
-- [Server Crashes](../troubleshooting/server-crashes.md)
 
 ## Support
 If you encounter issues not covered in this guide, please contact Sear Hosting support through your control panel or visit our community forums for assistance.
